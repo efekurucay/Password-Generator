@@ -1,0 +1,11 @@
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\bin\Debug\sifreolusturucu.exe.config
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\bin\Debug\sifreolusturucu.exe
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\bin\Debug\sifreolusturucu.pdb
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.csproj.AssemblyReference.cache
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.Form1.resources
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.Properties.Resources.resources
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.csproj.GenerateResource.cache
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.csproj.CoreCompileInputs.cache
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.exe
+C:\Users\efeku\source\repos\sifreolusturucu\sifreolusturucu\obj\Debug\sifreolusturucu.pdb
