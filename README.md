@@ -30,4 +30,4 @@ QNsN8cdHfU*Y
 
 Contact
 
-If you have any questions or feedback,[efekurucay.com].
+If you have any questions or feedback, [efekurucay.com].
