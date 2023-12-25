@@ -26,7 +26,7 @@ If you want a password that is 12 characters long and includes uppercase letters
 Length: 12
 Character types: Uppercase, Lowercase, Numbers, Special characters
 The password generator would then generate a password like this:
-QNsN8cdHfU*Y
+QNsN8cdUfU*Y
 
 Contact
 
