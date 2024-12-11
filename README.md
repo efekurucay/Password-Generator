@@ -1,7 +1,7 @@
 # Password-Generator
 Password Generator
 This is a password generator that I created using C# and Windows Forms. It allows you to specify the character types that you want to include in the password.
-
+![image](https://github.com/user-attachments/assets/93359b4d-c4be-4cf8-9bba-4f3ddb9c0585)
 ### How to use
 
 To use the password generator, simply enter the desired length of the password and select the character types that you want to include. Then, click the "Generate" button. The password generator will then generate a random password that meets your criteria.
@@ -29,3 +29,4 @@ QNsN8cdUfU*Y
 ### Contact
 
 If you have any questions or feedback, [efekurucay.com].
+
